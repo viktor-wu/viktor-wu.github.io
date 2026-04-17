@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Viktor Wu"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Glasgow, Scotland"
+  employer         : "University of Glasgow"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Viktor.Wu@glasgow.ac.uk" 
 
   # Academic websites
   academia         : # URL
