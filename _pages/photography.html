@@ -6,18 +6,20 @@ author_profile: true
 ---
 
 <style>
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 12px;
+
 }
 
-
+.gallery {
+  column-count: 3;
+  column-gap: 12px;
+}
 
 .gallery img {
   width: 100%;
-  height: auto;
+  margin-bottom: 12px;
+  border-radius: 6px;
 }
+
 
 .gallery img:hover {
   transform: scale(1.03);
