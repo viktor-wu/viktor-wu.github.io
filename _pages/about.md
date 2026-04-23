@@ -30,4 +30,4 @@ Conferences and meetings attended
 
 [First IMA meeting on “Mathematics for Climate, Environment and Sustainability”](https://ima.org.uk/27086/save-the-date-first-ima-meeting-on-mathematics-for-climate-environment-and-sustainability/) - London Mathematical Society, 23 September 2025
 
-
+[The 5th EEG Summer Workshop](https://sites.google.com/site/laboratoryforneuroergonomics/labactivity) - National Sun Yat-sen University, 12-16 August 2024
