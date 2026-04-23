@@ -6,39 +6,131 @@ author_profile: true
 ---
 
 <style>
-
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: 200px;
+  gap: 12px;
 }
 
-.gallery {
-  column-count: 3;
-  column-gap: 12px;
+.gallery a {
+  display: block;
+  cursor: pointer;
 }
 
 .gallery img {
   width: 100%;
-  margin-bottom: 12px;
+  height: 100%;
+  object-fit: cover;
   border-radius: 6px;
+  transition: transform 0.2s ease;
 }
 
-
 .gallery img:hover {
-  transform: scale(1.03);
+  transform: scale(1.02);
+}
+
+/* Portrait images span more vertical space */
+.portrait {
+  grid-row: span 2;
+}
+
+/* Lightbox */
+.lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.9);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+}
+
+.lightbox.active {
+  display: flex;
 }
 </style>
 
 <div class="gallery">
-  <img src="/images/000000360010.JPEG">
-  <img src="/images/000091370014.jpg">
-  <img src="/images/000091370038.jpg">
-  <img src="/images/6267419aa9e3f656feb059d63d96a0cb.JPEG">
-  <img src="/images/IMG_3683.jpg">
-  <img src="/images/IMG_3708.JPG">
-  <img src="/images/IMG_3711.JPG">
-  <img src="/images/IMG_6672.JPG">
-  <img src="/images/IMG_7577.JPG">
-  <img src="/images/IMG_8839.JPG">
-  <img src="/images/R1-02113-035A.jpg">
-  <img src="/images/viktor-wu-5nD7maKze0k-unsplash.jpg">
-  <img src="/images/viktor-wu-FyhrILLom_4-unsplash.jpg">
-  <img src="/images/viktor-wu-gsoXXa1ItZ8-unsplash.jpg">
+
+  <a onclick="openLightbox('/images/000000360010.JPEG')">
+    <img src="/images/000000360010.JPEG">
+  </a>
+
+  <a onclick="openLightbox('/images/000091370014.jpg')" class="portrait">
+    <img src="/images/000091370014.jpg">
+  </a>
+
+  <a onclick="openLightbox('/images/000091370038.jpg')">
+    <img src="/images/000091370038.jpg">
+  </a>
+
+  <a onclick="openLightbox('/images/6267419aa9e3f656feb059d63d96a0cb.JPEG')">
+    <img src="/images/6267419aa9e3f656feb059d63d96a0cb.JPEG">
+  </a>
+
+  <a onclick="openLightbox('/images/IMG_3683.jpg')">
+    <img src="/images/IMG_3683.jpg">
+  </a>
+
+  <a onclick="openLightbox('/images/IMG_3708.JPG')">
+    <img src="/images/IMG_3708.JPG">
+  </a>
+
+  <a onclick="openLightbox('/images/IMG_3711.JPG')" class="portrait">
+    <img src="/images/IMG_3711.JPG">
+  </a>
+
+  <a onclick="openLightbox('/images/IMG_6672.JPG')">
+    <img src="/images/IMG_6672.JPG">
+  </a>
+
+  <a onclick="openLightbox('/images/IMG_7577.JPG')">
+    <img src="/images/IMG_7577.JPG">
+  </a>
+
+  <a onclick="openLightbox('/images/IMG_8839.JPG')">
+    <img src="/images/IMG_8839.JPG">
+  </a>
+
+  <a onclick="openLightbox('/images/R1-02113-035A.jpg')">
+    <img src="/images/R1-02113-035A.jpg">
+  </a>
+
+  <a onclick="openLightbox('/images/viktor-wu-5nD7maKze0k-unsplash.jpg')">
+    <img src="/images/viktor-wu-5nD7maKze0k-unsplash.jpg">
+  </a>
+
+  <a onclick="openLightbox('/images/viktor-wu-FyhrILLom_4-unsplash.jpg')">
+    <img src="/images/viktor-wu-FyhrILLom_4-unsplash.jpg">
+  </a>
+
+  <a onclick="openLightbox('/images/viktor-wu-gsoXXa1ItZ8-unsplash.jpg')">
+    <img src="/images/viktor-wu-gsoXXa1ItZ8-unsplash.jpg">
+  </a>
+
 </div>
+
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img">
+</div>
+
+<script>
+function openLightbox(src) {
+  document.getElementById("lightbox-img").src = src;
+  document.getElementById("lightbox").classList.add("active");
+}
+
+function closeLightbox() {
+  document.getElementById("lightbox").classList.remove("active");
+}
+</script>
