@@ -20,7 +20,7 @@ Work experience
 * 2024: Research Assistant
   * Institute of Statistical Sciences, Academia Sinica, Taipei
   * Worked with point process methods for earthquake models and brain imaging
-  * Supervisor: Junho Yang
+ 
 
 * 2023: GIS System Developer
   * Swedish Board of Agriculture, Landskrona
@@ -33,24 +33,12 @@ Dissertations
 * MSc: Using NDVI time-series to Examine Post-Fire Vegetation Recovery in California
 * BSc: Detection of slush on the Greenland Ice Sheet using MODIS satellite imagery
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Swedish: Native
+* English: Highly proficient
+* Polish: Functionally fluent
+* French: B2
+* Italian: B1
+* Mandarin: Beginner
+
