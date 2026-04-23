@@ -19,15 +19,15 @@ To do this, I combine satellite remote sensing with emerging field-based techniq
 Conferences and meetings attended
 ======
 
-[Bioacoustic Summer School (SeaBASS)] (https://eos.unh.edu/center-acoustics-research-education/education/bioacoustic-summer-school-seabass) - Syracuse University, 28 June - 03 July 2026 (Upcoming)
+[Bioacoustic Summer School (SeaBASS)](https://eos.unh.edu/center-acoustics-research-education/education/bioacoustic-summer-school-seabass) - Syracuse University, 28 June - 03 July 2026 (Upcoming)
 
-[Scotland's Nature Student Conference] (https://scotnsconference.wixsite.com/2026?utm_source=LinkedIn&utm_medium=social&utm_campaign=Orlo) - University of Stirling, 03-04 March 2026
+[Scotland's Nature Student Conference](https://scotnsconference.wixsite.com/2026?utm_source=LinkedIn&utm_medium=social&utm_campaign=Orlo) - University of Stirling, 03-04 March 2026
 
-[MASTS Annual Science Meeting 2025] (https://masts.ac.uk/annual-science-meeting/) - Technology & Innovation Centre, University of Strathclyde, 18-19 November 2025
+[MASTS Annual Science Meeting 2025](https://masts.ac.uk/annual-science-meeting/) - Technology & Innovation Centre, University of Strathclyde, 18-19 November 2025
 
-[DiveIn Annual Industry Showcase 2025] (https://www.divein.org.uk/2025/10/16/annual-industry-showcase-2025/
+[DiveIn Annual Industry Showcase 2025](https://www.divein.org.uk/2025/10/16/annual-industry-showcase-2025/
 ) - University of Glasgow, 11 November 2025
 
-[First IMA meeting on “Mathematics for Climate, Environment and Sustainability”] (https://ima.org.uk/27086/save-the-date-first-ima-meeting-on-mathematics-for-climate-environment-and-sustainability/) - London Mathematical Society, 23 September 2025
+[First IMA meeting on “Mathematics for Climate, Environment and Sustainability”](https://ima.org.uk/27086/save-the-date-first-ima-meeting-on-mathematics-for-climate-environment-and-sustainability/) - London Mathematical Society, 23 September 2025
 
 
