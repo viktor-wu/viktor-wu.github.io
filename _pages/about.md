@@ -23,7 +23,7 @@ Conferences and meetings attended
 
 [Scotland's Nature Student Conference](https://scotnsconference.wixsite.com/2026?utm_source=LinkedIn&utm_medium=social&utm_campaign=Orlo) - University of Stirling, 03-04 March 2026
 
-[MASTS Annual Science Meeting 2025](https://masts.ac.uk/annual-science-meeting/) - Technology & Innovation Centre, University of Strathclyde, 18-19 November 2025
+[MASTS Annual Science Meeting 2025](https://masts.ac.uk/annual-science-meeting/) - University of Strathclyde, 18-19 November 2025
 
 [DiveIn Annual Industry Showcase 2025](https://www.divein.org.uk/2025/10/16/annual-industry-showcase-2025/
 ) - University of Glasgow, 11 November 2025
