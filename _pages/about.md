@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD researcher at the University of Glasgow, working on a project titled *“The Marine Rewilding Effect: Building a Cost-Effective Framework for Measuring Marine Net Gain.”* As part of the first cohort of the [NETGAIN Doctoral Focal Award] (https://netgain.wp.st-andrews.ac.uk/) (DFA) programme, my research sits at the intersection of ecology, technology, and policy.
+I am a PhD researcher at the University of Glasgow, working on a project titled *“The Marine Rewilding Effect: Building a Cost-Effective Framework for Measuring Marine Net Gain.”* As part of the first cohort of the [NETGAIN Doctoral Focal Award](https://netgain.wp.st-andrews.ac.uk/) (DFA) programme, my research sits at the intersection of ecology, technology, and policy.
 
 With a background in geospatial sciences, I am interested in interdisciplinary approaches to environmental restoration, including the social dimensions of restoration, which I plan to engage with more directly in the coming years. My work currently focuses on developing robust, scalable metrics to assess how restoration efforts shape biodiversity and ecosystem functioning, with particular attention to indicators such as water clarity and fish dynamics.
 
