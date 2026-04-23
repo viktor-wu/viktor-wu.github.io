@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Physical Geography, Uppsala University, 2022
+* BSc in Physical Geography & Ecosystem Science, Lund University, 2020
+* Year Abroad, Earth & Environmental Sciences, University of California, Los Angeles, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024: Research Assistant
+  * Institute of Statistical Sciences, Academia Sinica, Taipei
+  * Worked with point process methods for earthquake models and brain imaging
+  * Supervisor: Junho Yang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: GIS System Developer
+  * Swedish Board of Agriculture, Landskrona
+  * Developed new tools to monitor agricultural activity using satellite data
+  * GIS, Data management, pixel-based analysis, time-series analysis, and machine learning
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Dissertations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MSc: Using NDVI time-series to Examine Post-Fire Vegetation Recovery in California
+* BSc: Detection of slush on the Greenland Ice Sheet using MODIS satellite imagery
 
 Publications
 ======
