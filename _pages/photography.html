@@ -21,7 +21,6 @@ author_profile: false
 .gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-auto-rows: 320px;
   gap: 16px;
 }
 
@@ -32,10 +31,8 @@ author_profile: false
 
 .gallery img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
   border-radius: 6px;
-  transition: transform 0.2s ease;
 }
 
 .gallery img:hover {
