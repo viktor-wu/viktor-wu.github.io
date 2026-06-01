@@ -21,6 +21,9 @@ Conferences and meetings attended
 
 [Bioacoustic Summer School (SeaBASS)](https://eos.unh.edu/center-acoustics-research-education/education/bioacoustic-summer-school-seabass) - Syracuse University, 28 June - 03 July 2026 (Upcoming)
 
+[NETGAIN Annual Conference and Project Incubator](https://netgain.wp.st-andrews.ac.uk/2026-conference/)
+- 11 June 2026 (Upcoming)
+  
 [Scotland's Nature Student Conference](https://scotnsconference.wixsite.com/2026?utm_source=LinkedIn&utm_medium=social&utm_campaign=Orlo) - University of Stirling, 03-04 March 2026
 
 [MASTS Annual Science Meeting 2025](https://masts.ac.uk/annual-science-meeting/) - University of Strathclyde, 18-19 November 2025
