@@ -19,7 +19,7 @@ To do this, I use satellite remote sensing as well as bioacoustic monitoring usi
 Conferences and meetings attended
 ======
 
-[Bioacoustic Summer School (SeaBASS)](https://eos.unh.edu/center-acoustics-research-education/education/bioacoustic-summer-school-seabass) - Syracuse University, 28 June - 03 July 2026 (Upcoming)
+[Bioacoustic Summer School (SeaBASS)](https://eos.unh.edu/center-acoustics-research-education/education/bioacoustic-summer-school-seabass) - Syracuse University, 28 June - 03 July 2026 
 
 [NETGAIN Annual Conference and Project Incubator](https://netgain.wp.st-andrews.ac.uk/2026-conference/) - University of Glasgow, 11 June 2026
   
