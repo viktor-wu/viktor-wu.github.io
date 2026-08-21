@@ -13,11 +13,11 @@ This is my second paragraph.
 
 Here is another paragraph after the image.
 
-![Description](/images/IMG_5330.HEIC)
-![Description](/images/IMG_6254.HEIC)
-![Description](/images/IMG_5076.HEIC)
-![Description](/images/IMG_2535.HEIC)
-![Description](/images/IMG_2511.HEIC)
+![Description](/images/IMG_5330.jpg)
+![Description](/images/IMG_6254.jpg)
+![Description](/images/IMG_5076.jpg)
+![Description](/images/IMG_2535.jpg)
+![Description](/images/IMG_2511.jpg)
 ![Description](/images/20260611_115052.jpg)
 
 
