@@ -9,7 +9,7 @@ This is my first paragraph.
 
 This is my second paragraph.
 
-![Description(/images/b22fd100-a30b-4a24-893c-aeb111a67d4e.JPG)
+![Description](/images/b22fd100-a30b-4a24-893c-aeb111a67d4e.JPG)
 
 Here is another paragraph after the image.
 
