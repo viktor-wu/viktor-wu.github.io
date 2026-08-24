@@ -13,7 +13,8 @@ The most common piece of advice I've heard is to go easy on yourself in the firs
 
 My project has ended up focusing on seagrass (specifically seagrass restoration!). When learning about the many ecosystem services of seagrass, I was immediately very curious about its abilities to influence water clarity by reducing wave energy through its blades. Long before I knew anything about science, I had always judged a beach or body of water by its water clarity, and as a kid it was always my dream to swim in the most crystal-clear waters.
 
-<img width="304" height="357" alt="image" src="https://github.com/user-attachments/assets/628d082c-ca29-4f37-a569-7e1bc28017e2" />
+![IONA](/images/IMG_6889.jpg)
+
 
 This effect is part of a seagrass-sediment-light feedback, as seagrass growth is highly dependent on light availability. From various experiments and measurements, this attenuating effect on waves can be demonstrated as water velocities are reduced. But the kid inside of me is naturally wondernig if this effect can be *seen* with our own eyes, or maybe from space! So, what I've been doing this past year is studying this effect in UK waters and seagrass areas, using satellite remote sensing. This has also been a part of the PhD where I can apply familiar skills and knowledge, and take a break from feeling like an imposter!
 
